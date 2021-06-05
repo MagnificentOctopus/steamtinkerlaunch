@@ -41,6 +41,7 @@ DESC_LOGLEVEL="Степень подробности ведения logfiles - 0
 DESC_LUXTORPEDAARGS="Аргументы командной строки, используемые luxtorpeda"
 DESC_LUXTORPEDACMD="Команда или файл запуска Luxtorpeda"
 DESC_MANGOHUD="Включить MangoHud для этой игры"
+DESC_MANGOHUD_DLSYM="Enable MangoHud DLSYM (OpenGL support) for this game"
 DESC_MAXASK="Устанавливает максимальное количество раз появления диалогового окна с предложениеем открыть настройки текущей конфигурации игры, прежде чем пользователь выберет в нем ОТМЕНА n раз"
 DESC_NETMON="Команда или файл запуска network monitoring"
 DESC_NETMONDIR="Путь, по которому хранятся netmon logs"

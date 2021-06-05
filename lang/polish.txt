@@ -41,6 +41,7 @@ DESC_LOGLEVEL="Poziom logowania plików logowania – 0=brak, 1=mniej, 2=wszystk
 DESC_LUXTORPEDAARGS="Argumenty wiersza poleceń używane dla Luxtorpedy"
 DESC_LUXTORPEDACMD="Plik wykonywalny Luxtorpedy"
 DESC_MANGOHUD="Włącz MangoHud dla tej gry"
+DESC_MANGOHUD_DLSYM="Enable MangoHud DLSYM (OpenGL support) for this game"
 DESC_MAXASK="Poddaj się pytając czy ustawienia powinny być otwarte dla gry po n odrzuconych żądaniach"
 DESC_NETMON="Polecenie używane do monitorowania sieci"
 DESC_NETMONDIR="Ścieżka gdzie są przechowywane logi monitorowania sieci"
